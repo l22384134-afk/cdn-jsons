@@ -1,0 +1,18 @@
+﻿[
+    {
+        "logo": "white",
+        "id": "1",
+        "status": "", 
+        "online": "200", 
+        "maxonline": "1000", 
+        "color": "AAAAAA", 
+        "x2": "true", 
+        "key": "1424", 
+        "name": "DERIXTONCRMP", 
+        "firstname": "DERIXTON MOD", 
+        "secondname": "", 
+        "url": "white.br.com", 
+        "ip": "127.0.0.1", 
+        "port": "7777"
+    }
+]
