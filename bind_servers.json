@@ -1,0 +1,18 @@
+﻿[
+    {
+        "logo": "purple",
+        "id": "1",
+        "status": "test-public", 
+        "online": "1000", 
+        "maxonline": "1000", 
+        "color": "800080", 
+        "x2": "false", 
+        "key": "1424", 
+        "name": "BIND RUSSIA", 
+        "firstname": "MUROM", 
+        "secondname": "", 
+        "url": "purple.br.com", 
+        "ip": "127.0.0.1", 
+        "port": "7777"
+    }
+]
