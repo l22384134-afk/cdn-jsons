@@ -1,0 +1,17 @@
+﻿[
+    {
+        "id": "1",
+        "status": "test-public", 
+        "online": "1000", 
+        "maxonline": "1000", 
+        "color": "FF6347", 
+        "x2": "false", 
+        "key": "1424", 
+        "name": "RATE RUSSIA", 
+        "firstname": "KRASNOYARSK", 
+        "secondname": "", 
+        "url": "krasnoyarsk.br.com", 
+        "ip": "127.0.0.1", 
+        "port": "7777"
+    }
+]
